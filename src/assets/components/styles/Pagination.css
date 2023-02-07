@@ -27,13 +27,13 @@
     color:#062226;
  }
 
- .page-active{
+ .pagination__active{
     background-color:aquamarine;  ;
     border: 2px solid #00ffea;
     color:#062226;
   }
 
- .page-number{
+ .pagination__normal{
     border-radius: 50%;
     background-color:#062226;
     color:aquamarine;
