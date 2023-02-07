@@ -1,0 +1,11 @@
+.residentList {
+    display:grid;
+    gap: 10px;
+    grid-auto-rows: auto;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    margin: 0px;
+    max-width: 1400px;
+    background-color: #05292E;
+}
+

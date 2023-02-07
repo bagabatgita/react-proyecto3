@@ -1,0 +1,14 @@
+.locationinfo{
+    background-color: #05292E;
+    margin: 0px;
+    padding: 10px;
+   max-width: 100%;
+   text-align: center;
+   color: white;
+}
+
+.locationinfo__info{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}

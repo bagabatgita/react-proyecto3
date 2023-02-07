@@ -1,0 +1,17 @@
+.residentForm{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+
+.residentForm_input{
+    flex: 1;
+    background-color: black;
+    opacity: 0.4;
+    color: white;
+    font-size: 15px;
+    transition: color 300ms ease;
+  }

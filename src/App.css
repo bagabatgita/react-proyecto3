@@ -1,0 +1,27 @@
+.App {
+  min-height: 100vh;
+  transition: background 300ms ease, color 300ms ease;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+.banner {
+  background-image: url("banner.png");
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
