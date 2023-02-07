@@ -19,7 +19,7 @@ h6 {
 }
 
 .banner {
-  background-image: url("banner.png");
+  background-image: url("/banner.png");
   height: 300px;
   display: flex;
   align-items: center;
